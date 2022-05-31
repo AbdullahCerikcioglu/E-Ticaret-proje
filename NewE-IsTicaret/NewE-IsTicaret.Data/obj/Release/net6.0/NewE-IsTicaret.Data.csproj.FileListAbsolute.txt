@@ -1,0 +1,15 @@
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\bin\Release\net6.0\NewE-IsTicaret.Data.deps.json
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\bin\Release\net6.0\NewE-IsTicaret.Data.dll
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\bin\Release\net6.0\ref\NewE-IsTicaret.Data.dll
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\bin\Release\net6.0\NewE-IsTicaret.Data.pdb
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\bin\Release\net6.0\NewE-IsTicaret.Models.dll
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\bin\Release\net6.0\NewE-IsTicaret.Models.pdb
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\NewE-IsTicaret.Data.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\NewE-IsTicaret.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\NewE-IsTicaret.Data.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\NewE-IsTicaret.Data.AssemblyInfo.cs
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\NewE-IsTicaret.Data.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\NewE-IsTicaret.Data.csproj.CopyComplete
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\NewE-IsTicaret.Data.dll
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\ref\NewE-IsTicaret.Data.dll
+C:\Users\abdul\source\repos\NewE-IsTicaret\NewE-IsTicaret.Data\obj\Release\net6.0\NewE-IsTicaret.Data.pdb
